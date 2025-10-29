@@ -123,5 +123,5 @@ MIT License
 
 ## 🤝 Acknowledgments
 - **BatchData** — Data platform and hackathon sponsor.
-- **2025 AI Property Insights Hackathon** — courtesy of [Tech in Real Estate]([http://example.com](https://www.skool.com/techinrealestate)) and Ariel Herrera.
+- **2025 AI Property Insights Hackathon** — courtesy of [Tech in Real Estate](https://www.skool.com/techinrealestate) / [Ariel Herrera](https://www.youtube.com/channel/UCKkUCaKNlfYBJAm-OGBRyYw)
 - **OpenAI** — Outreach generation.
