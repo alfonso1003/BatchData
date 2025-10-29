@@ -123,35 +123,5 @@ MIT License
 
 ## 🤝 Acknowledgments
 - **BatchData** — Data platform and hackathon sponsor.
-- **2025 AI Property Insights Hackathon** — Event context.
+- **2025 AI Property Insights Hackathon** — courtesy of [Tech in Real Estate]([http://example.com](https://www.skool.com/techinrealestate)) and Ariel Herrera.
 - **OpenAI** — Outreach generation.
-
----
-
-# 🪪 Project Tagline
-**“A one-person real estate outreach engine — find, trace, contact, follow up. Automated end-to-end.”**
-
----
-
-# 🎤 Demo Slide (Optional)
-
-```
-## Distressed Property Outreach Automation
-### 2025 AI Property Insights Hackathon – BatchData
-
-**Problem:**  
-Solo real estate operators waste hours searching, skip tracing, and writing outreach messages manually.
-
-**Solution:**  
-Automated pipeline that:
-- Pulls distressed property leads
-- Skip traces owners
-- Filters out DNC contacts
-- Generates personalized outreach messaging using AI
-- Outputs CSV for dialing, mailing, and CRM ingestion
-
-**Outcome:**  
-Faster lead generation, compliant contact workflows, scalable outreach.
-
-**Built With:** BatchData API • Python • OpenAI
-```
